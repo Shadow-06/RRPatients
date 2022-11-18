@@ -1,0 +1,233 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RRPatients
+build_property.RootNamespace = RRPatients
+build_property.ProjectDir = C:\Users\ramit\Downloads\RRPatientsA3\RRPatients\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ramit\Downloads\RRPatientsA3\RRPatients
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRConcentrationUnits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJDb25jZW50cmF0aW9uVW5pdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRConcentrationUnits/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJDb25jZW50cmF0aW9uVW5pdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRConcentrationUnits/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJDb25jZW50cmF0aW9uVW5pdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRConcentrationUnits/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJDb25jZW50cmF0aW9uVW5pdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRConcentrationUnits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJDb25jZW50cmF0aW9uVW5pdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRCountry/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJDb3VudHJ5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRCountry/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJDb3VudHJ5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRCountry/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJDb3VudHJ5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRCountry/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJDb3VudHJ5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRCountry/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJDb3VudHJ5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRDiagnosisCategories/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJEaWFnbm9zaXNDYXRlZ29yaWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRDiagnosisCategories/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJEaWFnbm9zaXNDYXRlZ29yaWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRDiagnosisCategories/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJEaWFnbm9zaXNDYXRlZ29yaWVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRDiagnosisCategories/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJEaWFnbm9zaXNDYXRlZ29yaWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRDiagnosisCategories/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJEaWFnbm9zaXNDYXRlZ29yaWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRDispensingUnits/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJEaXNwZW5zaW5nVW5pdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRDispensingUnits/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJEaXNwZW5zaW5nVW5pdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRDispensingUnits/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJEaXNwZW5zaW5nVW5pdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRDispensingUnits/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJEaXNwZW5zaW5nVW5pdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRDispensingUnits/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJEaXNwZW5zaW5nVW5pdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRMedicationTypes/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJNZWRpY2F0aW9uVHlwZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRMedicationTypes/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJNZWRpY2F0aW9uVHlwZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRMedicationTypes/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJNZWRpY2F0aW9uVHlwZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRMedicationTypes/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJNZWRpY2F0aW9uVHlwZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRMedicationTypes/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJNZWRpY2F0aW9uVHlwZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRMedication/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJNZWRpY2F0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRMedication/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJNZWRpY2F0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRMedication/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJNZWRpY2F0aW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRMedication/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJNZWRpY2F0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRMedication/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJNZWRpY2F0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatientDiagnosis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50RGlhZ25vc2lzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatientDiagnosis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50RGlhZ25vc2lzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatientDiagnosis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50RGlhZ25vc2lzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatientDiagnosis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50RGlhZ25vc2lzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatientDiagnosis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50RGlhZ25vc2lzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatientTreatments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50VHJlYXRtZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatientTreatments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50VHJlYXRtZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatientTreatments/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50VHJlYXRtZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatientTreatments/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50VHJlYXRtZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/RRPatientTreatments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUlJQYXRpZW50VHJlYXRtZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ramit/Downloads/RRPatientsA3/RRPatients/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-wo9kd5836o
