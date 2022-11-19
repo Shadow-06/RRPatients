@@ -2,11 +2,11 @@ RRPatients
 
 Download zip or copy url of the project from the git hub 
 
-If downloaded etract the folder and click on RRPatients.sln to open the project 
+If downloaded extract the folder and click on RRPatients.sln to open the project 
 
-If copied use visual studio code terminal and run git clone link . to get the project
+If copied use visual studio code terminal and run git clone https://github.com/Shadow-06/RRPatients.git . to get the project
 
-to configure database double click on the patient.sql file in the project to get the queries.
+To configure database double click on the patient.sql file in the project to get the queries.
 
 Execute the queries to create the database in ssms.
 
